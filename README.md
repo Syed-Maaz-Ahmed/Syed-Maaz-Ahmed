@@ -85,7 +85,9 @@
 
 ## 📫 Connect With Me  
 <p>
-  <a href="linkedin.com/in/syedmaazahmed06">
+  <a href="www.linkedin.com/in/
+syedmaazahmed06
+">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="smaaz5768@gmail.com">
